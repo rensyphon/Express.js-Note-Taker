@@ -7,9 +7,9 @@ This project involved refactoring code to create a note taker. The end product w
 
 ## Installation
 
-This program may also be forked from [Github](https://github.com/rensyphon/PWA-Text-Editor), then installed by running `npm i` and `npm start` in a source code editor terminal.
+This program may be forked from [Github](https://github.com/rensyphon/PWA-Text-Editor), then installed by running `npm i` and `npm start` in a source code editor terminal.
 
-The program may also be used live at [Heroku]().
+The program may also be used live at [Heroku](https://agile-depths-06652.herokuapp.com/).
 
 ## Usage
 
